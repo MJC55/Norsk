@@ -15,6 +15,7 @@ def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 #Comment
+a=2
 
 
 path_to_folder = "C:/Users/michelechamberlin/Desktop"
