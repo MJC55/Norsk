@@ -14,7 +14,7 @@ import tkinter as tk
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-
+#Comment
 
 
 path_to_folder = "C:/Users/michelechamberlin/Desktop"
